@@ -1,0 +1,17 @@
+# Core
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+
+# Web Development
+flask==2.3.2
+requests==2.31.0
+
+# Data Science
+scikit-learn==1.2.2
+pytest==7.3.1
+
+# Utilities
+python-dotenv==1.0.0
+black==23.3.0
+flake8==6.0.0
